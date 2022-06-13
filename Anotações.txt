@@ -1,0 +1,16 @@
+Comandos de navegação para Windows: 
+
+- Listar
+→ dir
+
+- Navegar nas pastas
+→ cd /
+
+- Voltar pasta anterior
+→ cd ..
+
+- Limpar o terminal
+→ clear
+
+- autocompletar (atalho)
+→ TAB
