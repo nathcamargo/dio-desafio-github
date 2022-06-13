@@ -1,16 +1,32 @@
-Comandos de navegação para Windows: 
 
-- Listar
-→ dir
+**Comandos de navegação para Windows**
 
-- Navegar nas pastas
-→ cd /
+- Verificar os branchs locais na máquina → git branch
+- Verificar os branchs remotos → git branch -r
+- Verificar os branchs locais e remote → git branch -a
 
-- Voltar pasta anterior
-→ cd ..
+- Migrar de um branch para outro → git checkout nome do branch
 
-- Limpar o terminal
-→ clear
+- Listar → dir
 
-- autocompletar (atalho)
-→ TAB
+- Navegar nas pastas → cd /
+
+- Voltar pasta anterior → cd ..
+
+- Limpar o terminal → clear
+
+- Verificar URL do repositório remoto → git remote get-url origin
+
+
+**Atalhos**
+- autocompletar (atalho) → tab
+
+- colar → shift + insert
+- copiar → ctrl + insert
+
+
+**Configurações**
+
+- Usuário → git config --global user.name "informar o nome do usurio"
+- Usuário → git config --global "informar o email"
+
